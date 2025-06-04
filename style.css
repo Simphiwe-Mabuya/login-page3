@@ -31,3 +31,10 @@ body {
     margin-bottom: 35px;
     color: #595959;
 }
+
+.field {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
