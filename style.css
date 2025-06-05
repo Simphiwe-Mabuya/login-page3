@@ -112,6 +112,7 @@ button {
     cursor: pointer;
     color: #595959;
     box-shadow: 2px 2px 5px #BABECC, -5px -5px 10px #ffffff73;
+    transition: ease-in-out 0.5s;
 }
 
 button:focus {
@@ -121,7 +122,6 @@ button:focus {
 
 button:hover {
     background: #7abbe6;
-    transition: ease-in-out 0.5s;
 }
 
 .sign-up {
