@@ -93,3 +93,7 @@ body {
     color: #3498db;
     text-decoration: none;
 }
+
+.forgot-pass:hover a {
+    text-decoration: underline;
+}
