@@ -68,3 +68,12 @@ body {
     width: 50px;
     line-height: 50px;
 }
+
+.field label {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 45px;
+    pointer-events: none;
+    color: #666666;
+}
