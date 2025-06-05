@@ -113,3 +113,8 @@ button {
     color: #595959;
     box-shadow: 2px 2px 5px #BABECC, -5px -5px 10px #ffffff73;
 }
+
+button:focus {
+    columns: #3498db;
+    box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #ffffff73;
+}
