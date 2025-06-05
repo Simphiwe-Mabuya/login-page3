@@ -77,3 +77,9 @@ body {
     pointer-events: none;
     color: #666666;
 }
+
+/* to remove the input text */
+.field input:valid ~ label {
+    opacity: 0;
+}
+
