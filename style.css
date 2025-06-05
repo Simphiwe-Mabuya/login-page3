@@ -119,6 +119,11 @@ button:focus {
     box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #ffffff73;
 }
 
+button:hover {
+    background: #7abbe6;
+    transition: ease-in-out 0.5s;
+}
+
 .sign-up {
     margin: 10px 0;
     color: #595959;
@@ -130,3 +135,6 @@ button:focus {
     text-decoration: none;
 }
 
+.sign-up a:hover {
+    text-decoration: underline;
+}
