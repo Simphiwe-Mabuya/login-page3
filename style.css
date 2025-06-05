@@ -83,3 +83,8 @@ body {
     opacity: 0;
 }
 
+.forgot-pass {
+    text-align: left;
+    margin: 10px 0 10px 5px;
+}
+
